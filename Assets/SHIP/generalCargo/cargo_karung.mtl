@@ -1,0 +1,22 @@
+# Blender MTL File: 'cargo_karung.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.392806 0.242215
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\\PROJECT\\TEXTURE\\seamless-wood-texture-free-76.jpg
+
+newmtl Sack1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.530196 0.486274 0.407843
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\hafidz\Downloads\Compressed\Barrel Boxes & Grain Sack by IDW\Barrel Boxes & Grain Sack by IDW\OBJ\Barrel_Boxes_Grain_Sack\Sack1.JPG
